@@ -27,6 +27,12 @@ As I release noteworthy things, I will update a list here. For now, feel free to
 - **Vintage Systems**: Commodore 64
 
 ## Get in Touch
-If you're interested in collaborating or discussing SRE, cybersecurity, automation, or any of the technologies mentioned above (including vintage systems like the Commodore 64!), feel free to reach out to me at tylong@midmitten.technology. I'm excited to connect with like-minded professionals and enthusiasts!
+If you're interested in collaborating or discussing SRE, cybersecurity, automation, or any of the technologies mentioned above (including vintage systems like the Commodore 64!), feel free to reach out to me:
+
+- Email: [tylong@midmitten.technology](mailto:tylong@midmitten.technology)
+- Twitter: [@ty10ng](https://twitter.com/ty10ng)
+- Discord: `vintage.anon`
+
+I'm excited to connect with like-minded professionals and enthusiasts!
 
 Let's build resilient systems together, embracing both modern and vintage technologies!
