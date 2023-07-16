@@ -25,10 +25,11 @@ As I release noteworthy things, I will update a list here. For now, feel free to
 - **Automation and Infrastructure Management**: Puppet, Ansible
 - **Artifact Repository**: Artifactory
 - **Embedded Systems**: Raspberry Pis, microcontrollers
-- **Virtualization**: Docker, VMWare ESXI, Virtualization in general
+- **Virtualization**: Docker, VMWare ESXI, Virtualization technology in general
+- **Operating Systems**: Linux (RHEL, Oracle, CentOS, AlmaLinux, Rocky Linux, Ubuntu)
 
 ## Get in Touch
-If you're interested in collaborating or discussing SRE, cybersecurity, automation, virtualization, open source advocacy, or any of the technologies mentioned above (including vintage systems like the Commodore 64!), feel free to reach out to me:
+If you're interested in collaborating or discussing SRE, cybersecurity, automation, virtualization, open source advocacy, Linux, or any of the technologies mentioned above (including vintage systems like the Commodore 64!), feel free to reach out to me:
 
 - Email: [tylong@midmitten.technology](mailto:tylong@midmitten.technology)
 - Twitter: [@ty10ng](https://twitter.com/ty10ng)
