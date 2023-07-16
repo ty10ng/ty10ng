@@ -6,6 +6,7 @@ Hello, and great to have you here! I'm Tyler, a versatile Site Reliability Engin
 ## Interests
 - **Cybersecurity**: I have a deep fascination for the ever-evolving world of cybersecurity. I continuously explore techniques and strategies to enhance system security, protect sensitive data, and stay ahead of potential threats.
 - **Automation**: Automation is a cornerstone of my work. I actively seek opportunities to automate tasks, optimize workflows, and increase overall efficiency, regardless of the platform or system involved.
+- **Open Source Advocacy**: I strongly believe in the power of open source software and actively support the FOSS methodology. I enjoy utilizing and hope to contribute to open source projects, fostering collaboration and innovation within the community.
 
 ## Projects
 <!--
@@ -24,10 +25,10 @@ As I release noteworthy things, I will update a list here. For now, feel free to
 - **Automation and Infrastructure Management**: Puppet, Ansible
 - **Artifact Repository**: Artifactory
 - **Embedded Systems**: Raspberry Pis, microcontrollers
-- **Vintage Systems**: Commodore 64
+- **Virtualization**: Docker, VMWare ESXI, Virtualization in general
 
 ## Get in Touch
-If you're interested in collaborating or discussing SRE, cybersecurity, automation, or any of the technologies mentioned above (including vintage systems like the Commodore 64!), feel free to reach out to me:
+If you're interested in collaborating or discussing SRE, cybersecurity, automation, virtualization, open source advocacy, or any of the technologies mentioned above (including vintage systems like the Commodore 64!), feel free to reach out to me:
 
 - Email: [tylong@midmitten.technology](mailto:tylong@midmitten.technology)
 - Twitter: [@ty10ng](https://twitter.com/ty10ng)
