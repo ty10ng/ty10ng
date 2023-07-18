@@ -20,7 +20,7 @@ As I release noteworthy things, I will update a list here. For now, feel free to
 
 ## Tech Stack
 - **Programming Languages**: Python, C/C++
-- **Cloud Platform**: AWS (Certified AWS SysOps Administrator)
+- **Cloud Platforms**: AWS (Certified AWS SysOps Administrator), Azure, DigitalOcean, Linode
 - **Monitoring and Observability**: Grafana, Prometheus, Thanos, Zabbix
 - **Automation and Infrastructure Management**: Puppet, Ansible
 - **Artifact Repository**: Artifactory
