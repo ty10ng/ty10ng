@@ -25,7 +25,7 @@ As I release noteworthy things, I will update a list here. For now, feel free to
 - **Automation and Infrastructure Management**: Puppet, Ansible
 - **Artifact Repository**: Artifactory
 - **Embedded Systems**: Raspberry Pis, microcontrollers
-- **Virtualization**: Docker, VMWare ESXI, Virtualization technology in general
+- **Virtualization**: Docker, VMWare ESXI, Oracle Linux Virtualization Manager (OLVM), oVirt, KVM/QEMU, Libvirt
 - **Operating Systems**: Linux (RHEL, Oracle, CentOS, AlmaLinux, Rocky Linux, Ubuntu)
 
 ## Get in Touch
@@ -33,7 +33,6 @@ If you're interested in collaborating or discussing SRE, cybersecurity, automati
 
 - Email: [tylong@midmitten.technology](mailto:tylong@midmitten.technology)
 - Twitter: [@ty10ng](https://twitter.com/ty10ng)
-- Discord: `vintage.anon`
 
 I'm excited to connect with like-minded professionals and enthusiasts!
 
