@@ -3,6 +3,8 @@
 ## About Me
 Hello, and great to have you here! I'm Tyler, a versatile Site Reliability Engineer (SRE) with a broad range of interests and expertise. From modern technologies like Zabbix, Raspberry Pis, and microcontrollers to vintage systems like the beloved Commodore 64, I enjoy working across diverse platforms.
 
+My professional resume can be found [here](./resume.md) -- Thank you for checking out my profile!
+
 ## Interests
 - **Cybersecurity**: I have a deep fascination for the ever-evolving world of cybersecurity. I continuously explore techniques and strategies to enhance system security, protect sensitive data, and stay ahead of potential threats.
 - **Automation**: Automation is a cornerstone of my work. I actively seek opportunities to automate tasks, optimize workflows, and increase overall efficiency, regardless of the platform or system involved.
