@@ -33,7 +33,7 @@ As I release noteworthy things, I will update a list here. For now, feel free to
 ## Get in Touch
 If you're interested in collaborating or discussing SRE, cybersecurity, automation, virtualization, open source advocacy, Linux, or any of the technologies mentioned above (including vintage systems like the Commodore 64!), feel free to reach out to me:
 
-- Email: [tylong@midmitten.technology](mailto:tylong@midmitten.technology)
+- Email: [ty10ng@protonmail.com](mailto:ty10ng@protonmail.com)
 - Twitter: [@ty10ng](https://twitter.com/ty10ng)
 
 I'm excited to connect with like-minded professionals and enthusiasts!
