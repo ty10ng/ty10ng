@@ -5,6 +5,8 @@ Hello, and great to have you here! I'm Tyler, a versatile Site Reliability Engin
 
 My professional resume can be found [here](./resume.md) -- Thank you for checking out my profile!
 
+**Note:** The account [@twl0ng](https://github.com/twl0ng) is my professional account, where contributions are private. This account (ty10ng) is my public-facing one to have a clear work/life balance. 
+
 ## Interests
 - **Cybersecurity**: I have a deep fascination for the ever-evolving world of cybersecurity. I continuously explore techniques and strategies to enhance system security, protect sensitive data, and stay ahead of potential threats.
 - **Automation**: Automation is a cornerstone of my work. I actively seek opportunities to automate tasks, optimize workflows, and increase overall efficiency, regardless of the platform or system involved.
