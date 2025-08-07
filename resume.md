@@ -21,12 +21,13 @@ Currently preparing for the Certified Kubernetes Administrator (CKA) certificati
 
 ---
 
-## Certifications  
+## Certifications
 
-- **AWS Certified SysOps Administrator – Associate** (Expires 2025-08-01)  
-- **AWS Certified Cloud Practitioner - Foundational** (Expires 2025-08-01)  
-- **Certified Kubernetes Administrator (CKA)** (Expected: December 2024)  
+- **AWS Certified SysOps Administrator – Associate** *(Expired: 2025-08-01)*
+- **AWS Certified Cloud Practitioner – Foundational** *(Expired: 2025-08-01)*
+- **Certified Kubernetes Administrator (CKA)** *(In progress; targeting end of 2025)*  
   Focused on advanced Kubernetes cluster management, security, and troubleshooting.
+
 
 ---
 
