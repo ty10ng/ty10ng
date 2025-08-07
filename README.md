@@ -1,14 +1,16 @@
-# Welcome to My GitHub Profile!
+# Welcome to My GitHub Profile
 
-## About Me
-Hello, and great to have you here! I'm Tyler, a versatile Site Reliability Engineer (SRE) with a broad range of interests and expertise. From modern technologies like Zabbix, Raspberry Pis, and microcontrollers to vintage systems like the beloved Commodore 64, I enjoy working across diverse platforms.
+### 👋 Hi, I'm Tyler
 
-My professional resume can be found [here](./resume.md) -- Thank you for checking out my profile!
+I'm a Site Reliability Engineer who enjoys making complex systems a little less chaotic. I work across the stack—from microcontrollers and automation scripts to old-school hardware like the Commodore 64. I build things, break them, and (usually) put them back together.
 
-**Note:** The account [@twl0ng](https://github.com/twl0ng) is my professional account, where contributions are private. This account (ty10ng) is my public-facing one to have a clear work/life balance. 
+This is where I share projects, experiments, and ideas as I go.
+
+> **Note:** [@twl0ng](https://github.com/twl0ng) is my professional account with private contributions. This account (`@ty10ng`) is my public-facing space for open-source projects and personal work, helping me maintain a clear work/life boundary.
 
 ## Interests
 - **Cybersecurity**: I have a deep fascination for the ever-evolving world of cybersecurity. I continuously explore techniques and strategies to enhance system security, protect sensitive data, and stay ahead of potential threats.
+- **Generative AI & LLM Research**: Exploring language models, prompt engineering, and agent-based system design.
 - **Automation**: Automation is a cornerstone of my work. I actively seek opportunities to automate tasks, optimize workflows, and increase overall efficiency, regardless of the platform or system involved.
 - **Open Source Advocacy**: I strongly believe in the power of open source software and actively support the FOSS methodology. I enjoy utilizing and hope to contribute to open source projects, fostering collaboration and innovation within the community.
 
