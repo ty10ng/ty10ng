@@ -15,7 +15,7 @@ Senior Site Reliability Engineer with 10+ years of experience driving infrastruc
 
 Proven expertise in automation, cloud platforms (AWS, Azure, GCP), and IaC tools such as Ansible, Terraform, and GitHub Actions. 
 
-Passionate about building resilient, scalable, and secure infrastructure, reducing downtime through automation, and optimizing CI/CD pipelines. 
+Passionate about designing resilient infrastructure, minimizing downtime through automation, and continuously improving delivery pipelines. 
 
 Currently preparing for the Certified Kubernetes Administrator (CKA) certification to further enhance Kubernetes orchestration skills.
 
@@ -39,16 +39,16 @@ Currently preparing for the Certified Kubernetes Administrator (CKA) certificati
 - **CI/CD Pipelines**: Expertise in automating build and deployment pipelines using GitHub Actions, Jenkins, GitLab, and Gitea, improving speed and reliability.  
 - **Incident Management**: Developed custom incident bots integrating with Slack, JIRA, and PagerDuty, leading human response efforts for faster incident resolution.  
 
-### Tools & Technologies  
-- **Automation**: Ansible/AWX, Puppet, GitHub Actions (IssueOps)  
-- **IaC**: Terraform, CloudFormation, Helm, Argo CD  
-- **Scripting**: Python, Bash, Shell Scripting  
-- **Cloud Platforms**: AWS, Azure, Google Cloud, DigitalOcean, Linode  
-- **CI/CD Tools**: GitHub, GitHub Actions, Jenkins, GitLab, Gitea  
-- **Containerization**: Kubernetes (EKS, microk8s, k3s), Docker
-- **Monitoring & Alerting**: Zabbix, Prometheus, Grafana, AWS CloudWatch, Sensu, PagerDuty  
-- **Operating Systems**: Linux (RHEL, Ubuntu), Unix, Windows  
-- **Databases**: MySQL, Oracle, PostgreSQL, RDS, DynamoDB  
+### Tools & Technologies
+
+- **Automation & IaC**: Ansible/AWX, Puppet, Terraform, CloudFormation, Helm, Argo CD
+- **Scripting**: Python, Bash, Shell
+- **Cloud Platforms**: AWS, Azure, Google Cloud, DigitalOcean, Linode
+- **CI/CD**: GitHub Actions (IssueOps), Jenkins, GitLab CI, Gitea
+- **Containerization & Orchestration**: Kubernetes (EKS, microk8s, k3s), Docker
+- **Monitoring & Alerting**: Prometheus, Grafana, Sensu, Zabbix, PagerDuty
+- **Operating Systems**: Linux (RHEL, Ubuntu), Unix, Windows
+- **Databases**: MySQL, PostgreSQL, Oracle, Cloud-native DBs (RDS, DynamoDB)
 - **Virtualization**: Proxmox, VMware, oVirt, KVM, Oracle OLVM
 
 ---
