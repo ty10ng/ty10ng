@@ -2,7 +2,7 @@
 **Senior Site Reliability Engineer at Barracuda Networks**  
 Detroit, Michigan Metropolitan Area  
 
-- **LinkedIn**: [www.linkedin.com/in/ty10ng](https://www.linkedin.com/in/ty10ng)  
+- **LinkedIn**: [linkedin.com/in/ty10ng](https://www.linkedin.com/in/ty10ng)  
 - **GitHub (Professional)**: [github.com/twl0ng](https://github.com/twl0ng)  
 - **GitHub (Personal)**: [github.com/ty10ng](https://github.com/ty10ng)  
 - **Email**: ty10ng@protonmail.com  
@@ -17,7 +17,7 @@ Proven expertise in automation, cloud platforms (AWS, Azure, GCP), and IaC tools
 
 Passionate about designing resilient infrastructure, minimizing downtime through automation, and continuously improving delivery pipelines. 
 
-Currently preparing for the Certified Kubernetes Administrator (CKA) certification to further enhance Kubernetes orchestration skills.
+Always learning—currently focused on deepening Kubernetes expertise.
 
 ---
 
@@ -64,7 +64,7 @@ Currently preparing for the Certified Kubernetes Administrator (CKA) certificati
 - **Developed a custom incident response bot** integrated with Slack, JIRA, and PagerDuty, leading the human response process for faster incident resolution.  
 - Optimized an **auto-remediation project**, automating key recovery tasks and improving response efficiency before paging for human intervention.
 - **Served as a GitHub Enterprise Administrator** for the company, across multiple internal and public organizations, ensuring security and backups of repository data.
-- **Currently influencing the containerization strategy** for the company’s internal and external product offerings and contributing to the next generation of common (shared) infrastructure via Kubernetes.
+- **Drove the containerization strategy** for internal and external products, contributing to the company’s next-generation Kubernetes-based infrastructure.
 
 **Site Reliability Engineer**  
 *January 2021 – November 2022*
