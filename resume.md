@@ -6,7 +6,6 @@ Detroit, Michigan Metropolitan Area
 - **GitHub (Professional)**: [github.com/twl0ng](https://github.com/twl0ng)  
 - **GitHub (Personal)**: [github.com/ty10ng](https://github.com/ty10ng)  
 - **Email**: ty10ng@protonmail.com  
-- **Phone**: (810)-553-9755  
 
 ---
 
