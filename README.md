@@ -6,12 +6,17 @@ This is where I share projects, experiments, and ideas as I go.
 
 > **Note:** [@twl0ng](https://github.com/twl0ng) is my professional account with private contributions. This account (`@ty10ng`) is my public-facing space for open-source projects and personal work, helping me maintain a clear work/life boundary.
 
-## Interests
+## 🧠 Interests
 
-- **Cybersecurity**: Exploring techniques to strengthen system security, protect data, and stay ahead of evolving threats.
-- **Generative AI & LLM Research**: Working with language models, prompt engineering, and agent-based system design.
-- **Automation**: I look for every opportunity to automate, optimize, and simplify systems across platforms.
-- **Open Source Advocacy**: I support FOSS, contribute when I can, and believe in collaborative, transparent software development.
+- **Cybersecurity**: Exploring systems hardening, threat modeling, and automation-driven defense techniques.  
+- **Generative AI & LLM Research**: Working with language models, agent frameworks, and prompt optimization.  
+- **Automation & Infrastructure**: Streamlining workflows through code—from CI/CD pipelines to full system provisioning.  
+- **Open Source Advocacy**: Supporting FOSS tools and contributing to transparent, community-driven development.  
+- **Embedded Systems & Microcontrollers**: Building and programming low-level systems for automation, prototyping, and hardware hacking.  
+- **3D Printing & Digital Fabrication**: Designing and printing custom parts with FDM printers (Prusa MK3S, Ender Pro series) for hardware integration and functional prototyping.
+
+> I enjoy working at the intersection of software, hardware, and physical fabrication—where code meets circuits, and ideas become things.
+
 
 ## Projects (WIP)
 
@@ -19,10 +24,10 @@ I’ll curate featured projects here soon. Until then, explore the repos—I lik
 
 ## 🛠️ Tech Stack
 
-- **Languages**: Python, C, C++, *Rust (learning)*
+- **Languages**: Python, C, C++, *Rust (learning)*, *Lua (learning)*
 - **Cloud & Infrastructure**: AWS (Certified SysOps Admin), Azure, DigitalOcean, Linode
 - **Containers & Virtualization**: Docker, KVM/QEMU, Libvirt, oVirt, OLVM, VMware ESXi
-- **Infra as Code & Automation**: Ansible, Puppet, Terraform
+- **IaC & Automation**: Ansible, Puppet, Terraform
 - **CI/CD & DevOps**: GitHub Actions, GitLab CI, Jenkins
 - **Monitoring & Observability**: Prometheus, Grafana, Thanos
 - **Artifact Management**: JFrog Artifactory
